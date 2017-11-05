@@ -1,0 +1,2 @@
+# liveusb
+Configurating fast 
