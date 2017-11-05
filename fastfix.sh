@@ -3,8 +3,6 @@ echo " "
 echo "Hello World"
 echo " "
 echo "***************************"
-sudo timedatectl set-timezone Europe/Helsinki
-setxkbmap fi
 sudo apt update
 sudo apt install -y git tree puppet
 
