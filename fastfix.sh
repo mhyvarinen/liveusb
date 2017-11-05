@@ -10,7 +10,7 @@ sudo apt install -y git tree puppet
 
 cd /etc/puppet/modules
 
-sudo git clone https://github.com/mhyvarinen/ssh.git
+sudo git clone https://github.com/mhyvarinen/ssh
 
 sudo puppet apply -e 'class{"ssh":}'
 
